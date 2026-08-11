@@ -1,21 +1,22 @@
 # Family Story Vault website
 
-Static marketing site for Family Story Vault.
+Static marketing and public-information site for Family Story Vault.
 
 ## Files
+
 - `index.html` — homepage
-- `styles.css` — all site styling
-- `script.js` — mobile navigation, reveal animations, copyright year
-- `privacy.html` — development-stage privacy policy
-- `terms.html` — draft terms
-- `support.html` — support page
+- `styles.css` — shared site styling
+- `script.js` — mobile navigation, reveal animations, and copyright year
+- `privacy.html` — current Family Story Vault Privacy Policy
+- `terms.html` — current Family Story Vault Terms of Service
+- `support.html` — public support and contact page
 
 ## Publishing
+
 This site can be deployed as a static site to Cloudflare Pages with no build command. Set the output directory to `/` (repository root).
 
-## Before public launch
-1. Replace the temporary inline emblem with the official Family Story Vault logo image if desired.
-2. Add the official support email/contact method.
-3. Review Privacy and Terms against the app's actual production data practices.
-4. Add the App Store URL once available.
-5. Replace the mock app interface with real screenshots when ready.
+## Future publishing updates
+
+1. Replace the inline emblem with the final Family Story Vault logo image if desired.
+2. Add the App Store URL when it becomes available.
+3. Replace the styled app preview with approved production screenshots when ready.
